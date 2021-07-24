@@ -1,0 +1,2 @@
+C:\Users\Jennifer Lee\source\repos\VectorMatrixPart2\Debug\VectorMatrixPart2.exe
+C:\Users\Jennifer Lee\source\repos\VectorMatrixPart2\Debug\VectorMatrixPart2.pdb

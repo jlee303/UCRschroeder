@@ -1,0 +1,2 @@
+C:\Users\Jennifer Lee\source\repos\autoDiffForward\Debug\autoDiffForward.exe
+C:\Users\Jennifer Lee\source\repos\autoDiffForward\Debug\autoDiffForward.pdb
